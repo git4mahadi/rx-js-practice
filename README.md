@@ -1,1 +1,4 @@
-# rx-js-practice
+
+
+### Random Data Generator
+https://random-data-api.com/
